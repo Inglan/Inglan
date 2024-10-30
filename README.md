@@ -7,6 +7,8 @@ hobbies:
   - "programming"
   - "messing with school computers (especially chromebooks)"
   - "configuring my system"
+  - "self hosting"
+  - "device management"
 devices:
   thinkpad:
     model: "t460p"
