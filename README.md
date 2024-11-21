@@ -9,6 +9,7 @@ hobbies:
   - "configuring my system"
   - "self hosting"
   - "device management"
+  - "typing"
 languages:
   - "english"
   - "python"
@@ -20,6 +21,7 @@ languages:
   - "shell scripting"
   - "yaml"
   - "markdown"
+- - "godot+gdscript"
 devices:
   thinkpad:
     model: "t460p"
@@ -31,8 +33,8 @@ devices:
     shell: "fish"
     browser: "zen"
   school_laptop:
-    model: "Aspire A3SP14-31PT"
-    cpu: "N200"
+    model: "X1 Carbon 6th"
+    cpu: "i5-8350U"
     ram: 8
     os: "Arch Linux (btw)"
     de: "Hyprland"
@@ -47,8 +49,8 @@ devices:
 essential_apps_and_packages:
   - "zen"
   - "firefox"
-  - "tidal"
-  - "wezterm"
+  - "spotify"
+  - "foot (terminal)"
   - "fish"
   - "ags"
   - "hyprland"
@@ -65,10 +67,10 @@ essential_apps_and_packages:
   - "messages"
   - "phone"
   - "pacman"
-  - "nano"
+  - "nvim"
   - "vscode"
   - "git"
   - "zoxide"
-  - "walker"
+  - "rofi-wayland"
   - "thef ck"
 ```
