@@ -1,4 +1,6 @@
 # Hi, I'm Ingo - I do random stuff with computers
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Inglan&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+
 ```yaml
 name: "Ingo"
 location: "'stralia (mate)"
