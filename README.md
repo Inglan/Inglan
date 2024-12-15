@@ -12,6 +12,7 @@ hobbies:
   - "self hosting"
   - "device management"
   - "typing"
+  - "using arch (btw)"
 languages:
   - "english"
   - "python"
