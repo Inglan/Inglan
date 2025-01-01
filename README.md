@@ -45,13 +45,3 @@
   <img src="https://streak-stats.demolab.com?user=Inglan&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Inglan&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<h2 align="center">Hobbies</h2>
-
-###
-
-<p align="left">Home automation<br>Programming<br>Messing with school computers (especially chromebooks)<br>Configuring my system<br>Self hosting<br>Typing<br>Using arch (btw)</p>
-
-###
