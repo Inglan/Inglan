@@ -1,79 +1,57 @@
-# Hi, I'm Ingo - I do random stuff with computers
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Inglan&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+<h1 align="center">Hi 👋! My name is Ingo and I'm do random stuff with computers</h1>
 
-```yaml
-name: "Ingo"
-location: "'stralia (mate)"
-hobbies:
-  - "home automation"
-  - "programming"
-  - "messing with school computers (especially chromebooks)"
-  - "configuring my system"
-  - "self hosting"
-  - "device management"
-  - "typing"
-  - "using arch (btw)"
-languages:
-  - "english"
-  - "python"
-  - "javascript"
-  - "html"
-  - "svelte"
-  - "css"
-  - "dart/flutter"
-  - "shell scripting"
-  - "yaml"
-  - "markdown"
-- - "godot+gdscript"
-devices:
-  thinkpad:
-    model: "t460p"
-    cpu: "i7 6th"
-    ram: 32
-    gpu: 940mx
-    os: "Arch Linux (btw) and Windows 11"
-    de: "GNOME"
-    shell: "fish"
-    browser: "zen"
-  school_laptop:
-    model: "X1 Carbon 6th"
-    cpu: "i5-8350U"
-    ram: 8
-    os: "Arch Linux (btw)"
-    de: "Hyprland"
-    shell: "fish"
-    browser: "zen"
-  phone:
-    model: "Pixel 7 Pro"
-    storage: 128
-    ram: 12
-    os: "Android 15 QPR beta something"
-    browser: "firefox"
-essential_apps_and_packages:
-  - "zen"
-  - "firefox"
-  - "spotify"
-  - "foot (terminal)"
-  - "fish"
-  - "ags"
-  - "hyprland"
-  - "youtube"
-  - "neofetch"
-  - "linux"
-  - "todoist"
-  - "fitbit"
-  - "antennapod"
-  - "signal"
-  - "spark"
-  - "home assistant"
-  - "1password"
-  - "messages"
-  - "phone"
-  - "pacman"
-  - "nvim"
-  - "vscode"
-  - "git"
-  - "zoxide"
-  - "rofi-wayland"
-  - "thef ck"
-```
+###
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/svelte/FF3E00" height="30" alt="svelte logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/vite/646CFF" height="30" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/flutter/02569B" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/dart/0175C2" height="30" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/electron/47848F" height="30" alt="electron logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="30" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="30" alt="wordpress logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Inglan&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Inglan&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Inglan&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h2 align="center">Hobbies</h2>
+
+###
+
+<p align="left">Home automation<br>Programming<br>Messing with school computers (especially chromebooks)<br>Configuring my system<br>Self hosting<br>Typing<br>Using arch (btw)</p>
+
+###
