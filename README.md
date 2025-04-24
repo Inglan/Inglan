@@ -3,37 +3,29 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/svelte/FF3E00" height="30" alt="svelte logo"  />
+  <img src="https://cdn.simpleicons.org/svelte" height="30" alt="svelte logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
+  <img src="https://cdn.simpleicons.org/tailwindcss" height="30" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/vite/646CFF" height="30" alt="vite logo"  />
+  <img src="https://cdn.simpleicons.org/vite" height="30" alt="vite logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo"  />
+  <img src="https://cdn.simpleicons.org/html5" height="30" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="30" alt="css3 logo"  />
+  <img src="https://cdn.simpleicons.org/css3" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
+  <img src="https://cdn.simpleicons.org/typescript" height="30" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="30" alt="typescript logo"  />
+  <img src="https://cdn.simpleicons.org/docker" height="30" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/flutter/02569B" height="30" alt="flutter logo"  />
+  <img src="https://cdn.simpleicons.org/figma" height="30" alt="figma logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/dart/0175C2" height="30" alt="dart logo"  />
+  <img src="https://cdn.simpleicons.org/nodedotjs" height="30" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
+  <img src="https://cdn.simpleicons.org/python" height="30" alt="npm logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/electron/47848F" height="30" alt="electron logo"  />
+  <img src="https://cdn.simpleicons.org/pnpm" height="30" alt="npm logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img src="https://cdn.simpleicons.org/zedindustries" height="30" alt="zed logo"  />
 </div>
 
 ###
