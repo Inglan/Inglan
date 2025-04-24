@@ -21,9 +21,9 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs" height="30" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/python" height="30" alt="npm logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/pnpm" height="30" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/python" height="30" alt="npm logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/zedindustries" height="30" alt="zed logo"  />
 </div>
