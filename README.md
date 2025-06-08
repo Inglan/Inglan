@@ -2,33 +2,29 @@
 
 ###
 
-<div align="center">
-  <img src="https://cdn.simpleicons.org/svelte" height="30" alt="svelte logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/vite" height="30" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/typescript" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/figma" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/pnpm" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/python" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/zedindustries" height="30" alt="zed logo"  />
-</div>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=pnpm,nextjs,react,svelte,typescript,godot,python,git,docker,vim,figma,obsidian" />
+</p>
 
-###
+### I know
+Web development primarily, but also a bit of game development
+
+### I use
+* ~~arch btw~~
+* M4 Macbook Pro
+* Samsung S25
+* Pixel Watch
+
+who needs ecosystems anyway
+### Software
+* Code editor: Zed
+* Browser: Zen/Firefox
+* Music: Spotify (I CANT SWITCH AWAY FROM IT I JUST CANT PLEASE HELP)
+* Messaging: Signal (@ingo.392)
+* Email: Spark
+* Obsidian (many css mods and plugins)
+
+### Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Inglan&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=catppuccin_mocha&locale=en&hide_border=true" height="150" alt="stats graph"  />
