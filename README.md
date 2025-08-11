@@ -1,7 +1,3 @@
-<h1 align="center">Hi 👋! My name is Ingo and I build for the web</h1>
-
-###
-
 <p align="center">
     <img src="https://skillicons.dev/icons?i=pnpm,nextjs,react,svelte,typescript,godot,python,git,docker,vim,figma,obsidian" />
 </p>
