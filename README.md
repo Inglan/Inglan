@@ -13,7 +13,7 @@ Web development primarily, but also a bit of game development
 * ~~arch btw~~
 * M4 Macbook Pro
 * Samsung S25
-* Pixel Watch
+* Pixel Watch 2
 
 who needs ecosystems anyway
 ### Software
