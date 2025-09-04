@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=pnpm,nextjs,react,svelte,typescript,godot,python,git,docker,vim,figma,obsidian" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,svelte,typescript,godot,python,git,docker,vim,figma,obsidian" />
 </p>
 
 ### I know
