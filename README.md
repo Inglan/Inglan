@@ -17,7 +17,7 @@ who needs ecosystems anyway
 * Browser: Zen/Firefox
 * Music: Spotify (I CANT SWITCH AWAY FROM IT I JUST CANT PLEASE HELP)
 * Messaging: Signal (@ingo.392)
-* Email: Spark
+* Email: Thunderbird, hosted by titan email
 * Obsidian (many css mods and plugins)
 
 ### Stats
