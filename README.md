@@ -16,9 +16,9 @@ Web development primarily, but also a bit of game development
 
 who needs ecosystems anyway
 ### Software
-* Code editor: Zed
-* Browser: Zen/Firefox
-* Music: Spotify (I CANT SWITCH AWAY FROM IT I JUST CANT PLEASE HELP)
-* Messaging: Signal (@ingo.392)
+* Code editor: zed
+* Browser: helium and firefox
+* Music: apple music because its better than spotify
+* Messaging: signal (@ingo.392)
 * Email: Fastmail
-* Obsidian (many css mods and plugins)
+* Obsidian
